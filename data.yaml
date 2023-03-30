@@ -1,0 +1,18 @@
+names:
+- green_3
+- orange_3
+- red_3
+- all_green_4
+- straight_green_4
+- left_green_4
+- orange_4
+- red_4
+- delivery_a1
+- delivery_a2
+- delivery_a3
+- delivery_b1
+- delivery_b2
+- delivery_b3
+nc: 13
+train: /home/macaron/content/train.txt
+val: /home/macaron/content/val.txt
